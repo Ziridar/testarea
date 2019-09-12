@@ -1,0 +1,14 @@
+C:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\bin\Debug\netcoreapp2.2\testarea.deps.json
+C:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\bin\Debug\netcoreapp2.2\testarea.runtimeconfig.json
+C:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\bin\Debug\netcoreapp2.2\testarea.runtimeconfig.dev.json
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\bin\Debug\netcoreapp2.2\testarea.dll
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\bin\Debug\netcoreapp2.2\testarea.pdb
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.csprojAssemblyReference.cache
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.csproj.CoreCompileInputs.cache
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.RazorAssemblyInfo.cache
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.RazorAssemblyInfo.cs
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.AssemblyInfoInputs.cache
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.AssemblyInfo.cs
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.RazorTargetAssemblyInfo.cache
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.dll
+c:\Users\Johan\OneDrive\Documents\VSCode\Repositories\testarea\obj\Debug\netcoreapp2.2\testarea.pdb
